@@ -7,6 +7,10 @@
 Senior Software Engineer | Full-Stack Development | GenAI Engineering | React | Python | FastAPI
 </h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8A2BE2&center=true&vCenter=true&width=900&lines=Coming+Soon%3A+Meta+Quest+3+AR%2FVR+Project;Unity+%7C+C%23+%7C+Spatial+Computing;Building+immersive+software+experiences" alt="Typing SVG" />
+</p>
+<hr>
 
 <h4 align="center">Frontend & Real-Time</h4>
 <p align="center">
