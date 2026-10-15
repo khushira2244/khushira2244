@@ -99,6 +99,8 @@ Senior Software Engineer | Full-Stack Development | GenAI Engineering | React | 
 ---
 
 ## 🔬 Beyond Engineering — Research & Publications
+<img width="1448" height="1086" alt="Quantum Rocket in a Neon Lab" src="https://github.com/user-attachments/assets/ba27dfa2-789d-4913-85c3-c4cb3b33a7ab" />
+
 
 **Independent Researcher | Quantum Physics | Nonlinear Dynamics | AI Reasoning**
 
