@@ -8,8 +8,12 @@ Senior Software Engineer | Full-Stack Development | GenAI Engineering | React | 
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8A2BE2&center=true&vCenter=true&width=900&lines=Coming+Soon%3A+Meta+Quest+3+AR%2FVR+Project;Unity+%7C+C%23+%7C+Spatial+Computing;Building+immersive+software+experiences" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3500&pause=1400&color=AD8BFF&center=true&vCenter=true&width=1050&height=55&lines=Coming+Soon%3A+Adaptive+Spatial+Labs+%7C+Meta+Quest+3+AR%2FVR+Product;Unity+Mixed+Reality+%7C+Software+Architecture+Collaboration;Hands-First+Interaction+%7C+Source-Grounded+Architecture+Views;Contextual+AI+%7C+Voice-Assisted+Navigation;Private+and+Shared+Workspaces+%7C+Spatial+Presentations;Collaborative+Decision-Making+%7C+Team+Workflows"
+    alt="Adaptive Spatial Labs - Upcoming Meta Quest 3 Mixed Reality Product"
+  />
 </p>
+
 <hr>
 
 <h4 align="center">Frontend & Real-Time</h4>
