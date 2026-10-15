@@ -79,6 +79,57 @@ Senior Software Engineer | Full-Stack Development | GenAI Engineering | React | 
 
 - 💬 **Open to:** GenAI Engineering, Senior Full-Stack Engineering, and Senior Frontend Engineering opportunities.
 
+  
+---
+
+## 🔬 Beyond Engineering — Research & Publications
+
+**Independent Researcher | Quantum Physics | Nonlinear Dynamics | AI Reasoning**
+
+Alongside software engineering, I pursue independent research at the intersection of quantum physics, nonlinear dynamical systems, memory-dependent processes, and artificial intelligence.
+
+🎓 **Education:** Master's in Artificial Intelligence & Data Science — Liverpool John Moores University (LJMU), 2026.
+
+📘 **Master's Thesis:** Research on interpretable memory-augmented nonlinear dynamical systems, studying stability, trajectory behavior, and perturbation response.
+
+🔭 **Research Interests:** Open quantum systems, non-Markovian memory, quantum coherence, nonlinear trajectories, periodic-orbit dynamics, and structured AI reasoning.
+
+### Selected Publications
+
+**Published Journal Article — 2026**
+
+📄 [Threshold-controlled fractional dissipation in open quantum systems](https://doi.org/10.1016/j.physa.2026.131401)
+
+*Physica A: Statistical Mechanics and its Applications*, Volume 688, Article 131401.
+
+<details>
+<summary><b>📚 Additional Research Papers & Preprints</b></summary>
+
+#### Nonlinear Dynamics & Three-Body Problem
+
+[A Stability–Symmetry Approach to Periodic-Orbit Classification in the Three-Body Problem](https://doi.org/10.21203/rs.3.rs-8283973/v1)
+
+Research Square Preprint — December 2025.
+
+#### Quantum Coherence
+
+[Trapped-ion coherence does not decay purely exponentially — a weak power-law tail is always present](https://doi.org/10.21203/rs.3.rs-8156121/v1)
+
+Research Square Preprint — November 2025.
+
+[Zenodo research record](https://doi.org/10.5281/zenodo.17645475)
+
+#### AI Reasoning
+
+[PRISM Gate 2.0: A Dynamic Geometry of Reasoning in Self-Regulated Language Models](https://doi.org/10.5281/zenodo.17533121)
+
+Zenodo Preprint — November 2025.
+
+</details>
+
+**More research and publications:** [ORCID Research Profile](https://orcid.org/0009-0006-7000-026X)
+
+
 
 ---
 
@@ -94,5 +145,12 @@ Senior Software Engineer | Full-Stack Development | GenAI Engineering | React | 
   <a href="https://khushboorani.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-009688?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://spacedimension.netlify.app/">
+    <img src="https://img.shields.io/badge/Research_Website-673AB7?style=for-the-badge&logoColor=white" alt="Research Website"/>
+  </a>
+  <a href="https://orcid.org/0009-0006-7000-026X">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+  </a>
 </p>
+
 
