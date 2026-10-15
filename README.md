@@ -1,8 +1,5 @@
 Hi there, I'm Khushboo 👋
 
-Senior Software Engineer | Full-Stack Development | GenAI Engineering | React | Python | FastAPI
-
-
 <h3 align="center">
   Senior Software Engineer | Full-Stack Development | GenAI Engineering | React | Python | FastAPI
 </h3>
