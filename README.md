@@ -18,8 +18,6 @@ Senior Software Engineer | Full-Stack Development | GenAI Engineering | React | 
 
 <h4 align="center">Frontend & Real-Time</h4>
 
-<h4 align="center">Frontend & Real-Time</h4>
-
 <p align="center">
   <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
