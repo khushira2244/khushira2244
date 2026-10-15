@@ -99,7 +99,15 @@ Senior Software Engineer | Full-Stack Development | GenAI Engineering | React | 
 ---
 
 ## 🔬 Beyond Engineering — Research & Publications
-<img width="500" height="500" alt="Neon Rocket in a Glass Vial" src="https://github.com/user-attachments/assets/2b5966dc-98e3-4661-9f1e-cefdda65e300" />
+<p align="center">
+  <img
+    width="300"
+    height="300"
+    alt="Neon Rocket in a Glass Vial"
+    src="https://github.com/user-attachments/assets/2b5966dc-98e3-4661-9f1e-cefdda65e300"
+  />
+</p>
+
 
 
 
