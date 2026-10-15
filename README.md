@@ -17,15 +17,23 @@ Senior Software Engineer | Full-Stack Development | GenAI Engineering | React | 
 <hr>
 
 <h4 align="center">Frontend & Real-Time</h4>
+
+<h4 align="center">Frontend & Real-Time</h4>
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebSockets-435F7A?style=flat-square"/>
   <img src="https://img.shields.io/badge/Micro--frontends-536DFE?style=flat-square"/>
 </p>
+
 
 <h4 align="center">GenAI & Agentic Systems</h4>
 <p align="center">
