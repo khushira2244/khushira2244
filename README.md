@@ -78,6 +78,8 @@ Senior Software Engineer | Full-Stack Development | GenAI Engineering | React | 
 - 🌍 **Location:** Hyderabad, India.
 
 - 💬 **Open to:** GenAI Engineering, Senior Full-Stack Engineering, and Senior Frontend Engineering opportunities.
+  
+- 🎓 **Education:** Master's in Artificial Intelligence & Data Science — Liverpool John Moores University (LJMU), 2026.
 
   
 ---
@@ -86,38 +88,13 @@ Senior Software Engineer | Full-Stack Development | GenAI Engineering | React | 
 
 **Independent Researcher | Quantum Physics | Nonlinear Dynamics | AI Reasoning**
 
-Alongside software engineering, I pursue independent research at the intersection of quantum physics, nonlinear dynamical systems, memory-dependent processes, and artificial intelligence.
+- 🔬 **Independent Research:** Exploring the intersection of quantum physics, nonlinear dynamical systems, memory-dependent processes, and artificial intelligence alongside software engineering.
 
-🎓 **Education:** Master's in Artificial Intelligence & Data Science — Liverpool John Moores University (LJMU), 2026.
+- 📘 **Master's Thesis:** Research on interpretable memory-augmented nonlinear dynamical systems, focusing on stability, trajectory behavior, perturbation response, and history-dependent dynamics.
 
-📘 **Master's Thesis:** Research on interpretable memory-augmented nonlinear dynamical systems, studying stability, trajectory behavior, and perturbation response.
-
-🔭 **Research Interests:** Open quantum systems, non-Markovian memory, quantum coherence, nonlinear trajectories, periodic-orbit dynamics, and structured AI reasoning.
+- 🔭 **Research Interests:** Open quantum systems, non-Markovian memory, quantum coherence, nonlinear trajectories, periodic-orbit dynamics, and structured AI reasoning.
 
 ### Selected Publications
-
-**Published Journal Article — 2026**
-
-📄 [Threshold-controlled fractional dissipation in open quantum systems](https://doi.org/10.1016/j.physa.2026.131401)
-
-*Physica A: Statistical Mechanics and its Applications*, Volume 688, Article 131401.
-
-<details>
-<summary><b>📚 Additional Research Papers & Preprints</b></summary>
-
-#### Nonlinear Dynamics & Three-Body Problem
-
-[A Stability–Symmetry Approach to Periodic-Orbit Classification in the Three-Body Problem](https://doi.org/10.21203/rs.3.rs-8283973/v1)
-
-Research Square Preprint — December 2025.
-
-#### Quantum Coherence
-
-[Trapped-ion coherence does not decay purely exponentially — a weak power-law tail is always present](https://doi.org/10.21203/rs.3.rs-8156121/v1)
-
-Research Square Preprint — November 2025.
-
-[Zenodo research record](https://doi.org/10.5281/zenodo.17645475)
 
 #### AI Reasoning
 
