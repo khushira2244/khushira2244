@@ -1,8 +1,12 @@
-Hi there, I'm Khushboo 👋
+
+<h1 align="center">Hi there, I'm Khushboo 👋</h1>
+
+<hr>
 
 <h3 align="center">
-  Senior Software Engineer | Full-Stack Development | GenAI Engineering | React | Python | FastAPI
+Senior Software Engineer | Full-Stack Development | GenAI Engineering | React | Python | FastAPI
 </h3>
+
 
 <h4 align="center">Frontend & Real-Time</h4>
 <p align="center">
@@ -58,3 +62,37 @@ Hi there, I'm Khushboo 👋
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Convex_Cloud-8952EF?style=flat-square"/>
 </p>
+
+---
+
+## About Me
+
+- 💼 **Professional Experience:** 5+ years in software engineering, working on enterprise applications, scalable frontend systems, backend APIs, and technical leadership.
+
+- 🧠 **Generative AI:** Developing AI-powered applications involving LLMs, RAG, agentic workflows, multimodal AI, and model evaluation.
+
+- ⚙️ **Software Engineering:** Experienced in frontend architecture, full-stack development, API integration, application design, and real-time systems.
+
+- 🚀 **Product Development:** Building independent GenAI, backend, and full-stack products through hackathons and engineering projects.
+
+- 🌍 **Location:** Hyderabad, India.
+
+- 💬 **Open to:** GenAI Engineering, Senior Full-Stack Engineering, and Senior Frontend Engineering opportunities.
+
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/khushboo-rani-29208a224/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:khushira2244@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://khushboorani.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-009688?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
